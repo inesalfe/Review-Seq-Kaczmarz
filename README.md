@@ -7,7 +7,7 @@ The paper describing the obtained results was submitted to SIAM Review and its p
 # Requirements
 
 * C++11
-* Eigen Libreary (version 3.4)
+* Eigen Library (version 3.4)
 
 ### Python Packages (for plots)
 
