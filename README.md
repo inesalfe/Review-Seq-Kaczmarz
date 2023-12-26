@@ -86,9 +86,12 @@ __<eps>__
 
 Value used for simulations: $10^{-8}$.
 
-__<M>__ and __<N>__
+__<M>__
 
 M value Options: 2000, 4000, 20000, 40000, 80000, 160000.
+
+__<N>__
+
 N value Options: 50, 100, 200, 500, 750, 1000, 2000, 4000, 10000, 20000.
 
 Overdetermined systems were created such that M/N > 2.
