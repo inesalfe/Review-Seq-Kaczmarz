@@ -19,7 +19,7 @@ The paper describing the obtained results was submitted to SIAM Review and its p
 
 # Usage
 
-Importante note: Run all commands inside the code directory.
+Important note: Run all commands inside the code directory.
 
 Compile all files:
 
