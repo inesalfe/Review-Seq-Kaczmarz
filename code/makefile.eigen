@@ -1,5 +1,5 @@
 CC := g++
-CCFLAGS := -O3 -lm -fopenmp
+CCFLAGS := -std=c++11 -O3 -lm -fopenmp
 INC := -I src -I /usr/local/include/eigen3
 
 .PRECIOUS : bin/%.o
