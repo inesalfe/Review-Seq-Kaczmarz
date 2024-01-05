@@ -1,4 +1,4 @@
-# A Survey of a Class of Iterative Row-Action Methods: The Kaczmarz Method
+# Survey of a Class of Iterative Row-Action Methods: The Kaczmarz Method
 
 This repository containts the source code for testing several variations of the Kaczmarz method.
 
