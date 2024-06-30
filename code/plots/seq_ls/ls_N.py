@@ -79,7 +79,7 @@ time_RGS_10000 = [time_RGS[i] for i in indices]
 x_10000 = [40000, 80000]
 
 import matplotlib.pylab as pylab
-params = {'legend.fontsize': 'xx-large',
+params = {'legend.fontsize': 'large',
          'axes.labelsize': 'xx-large',
          'axes.titlesize': 'xx-large',
          'xtick.labelsize': 'xx-large',
